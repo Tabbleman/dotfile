@@ -1,0 +1,2 @@
+# dotfile
+automatically deploy dotfile
